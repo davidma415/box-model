@@ -70,11 +70,11 @@ footer {
   background-color: black;
   height: 50px;
   text-align: center;
-  color: white;
   width: 100%;
 }
 
 footer p{
   padding: 10px;
   font-size: 1.1em;
+  color: white;
 }
