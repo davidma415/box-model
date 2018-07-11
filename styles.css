@@ -1,0 +1,35 @@
+body {
+  font-size: 16px;
+}
+.title {
+  background-color: black;
+  color: white;
+  font-size: 2em;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a{
+  background-color: grey;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.info {
+  display: block;
+  background-color: #42f1f4;
+  margin: 10px 0px;
+  font-size: 1.5em;
+  padding: 10px 10px;
+}
+
+.content {
+  margin: 0px 20px;
+}
